@@ -21,3 +21,4 @@ I've added enzyme, ajv, jest-enzyme, enzyme-adapter-react-16, check-prop-types.
 
 This is an effort to TDD the entire app. The effort is to write the tests first, then write the code.  I did this without chai-enzyme, but may consider using it next time since the enzyme documentation uses it.
 
+I set up travis for pull requests.
