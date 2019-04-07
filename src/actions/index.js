@@ -1,5 +1,5 @@
 import { CORRECT_GUESS } from './types';
 
 export const correctGuess = () => {
-  return { type: CORRECT_GUESS };
+  return { type: CORRECT_GUESS, payload: true };
 }
